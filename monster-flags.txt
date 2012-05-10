@@ -1,0 +1,211 @@
+# Resists
+RES_LITE | Light
+RES_DARK | Dark
+RES_FIRE | Fire
+RES_ACID | Acid
+RES_COLD | Cold
+RES_ELEC | Electricity
+RES_FEAR | Fear
+RES_CHAOS | Chaos
+RES_BLIND | Blind
+RES_POIS | Poison
+RES_NETHR | Nether
+RES_DISEN | Disenchantment
+RES_CONFU | Confusion
+RES_LITE | Light
+RES_SOUND | Sound
+RES_SHARD | Shards
+RES_NEXUS | Nexus
+RES_PLAS | Plasma
+IM_FIRE | Fire-Immune
+IM_COLD | Ice-Immune
+IM_ACID | Acid-Immune
+IM_ELEC | Electricity-Immune
+IM_POIS | Poison-Immune
+# Color
+black | d
+blue | b
+brown | u
+cyan | B
+dark-grey | D
+dark grey | D
+green | g
+grey | s
+light-blue | B
+light blue | B
+light-brown | U
+light brown | U
+light-green | G
+light green | G
+light-grey | W
+light grey | W
+light-red | R
+light red | R
+orange | o
+pink | R
+purple | v
+red | r
+tan | U
+violet | v
+white | w
+yellow | y
+blinking | ATTR_MULTI
+flashing | ATTR_MULTI
+flashy | ATTR_MULTI
+multihued | ATTR_MULTI
+multi-hued | ATTR_MULTI
+multi hued | ATTR_MULTI
+# Summons
+S_MONSTERS | Monsters
+S_MONSTER | Monster
+S_UNIQUE | Unique Monsters
+S_WRAITH | Ring Wraiths
+S_HI_UNDEAD | Greater Undead
+S_HI_DRAGON | Ancient Dragons
+S_HI_DEMON | Greater Demons
+S_HOUND | Hounds
+S_UNDEAD | Undead
+S_DRAGON | Dragon
+S_DEMON | Demon
+S_SPIDER | Spider
+S_ANIMAL | Animal
+S_HYDRA | Hydra
+S_ANGEL | Angel
+S_KIN | Similar
+S_BUGS | Bugs
+# Spells
+BA_MANA | Mana Storm
+BA_NETH | Nether Ball
+BA_FIRE | Fire Ball
+BA_WATE | Water Ball
+BA_ACID | Acid Ball
+BA_DARK | Darkness Storm
+BA_POIS | Poison Ball
+BA_ELEC | Lightning Ball
+BO_MANA | Mana Bolt
+BO_NETH | Nether Bolt
+BO_FIRE | Fire Bolt
+BO_COLD | Frost Bolt
+BO_ICEE | Ice Bolt
+BO_WATE | Water Bolt
+BO_PLAS | Plasma Bolt
+BO_ELEC | Lightning Bolt
+BO_ACID | Acid Bolt
+BRAIN_SMASH | Brain Smash
+MIND_BLAST | Mind Blast
+FORGET | Cause Amnesia
+BLIND | Blind
+HOLD | Paralyze
+SCARE | Terrify
+CONF | Confuse
+SLOW | Slow
+DARKNESS | Create Darkness
+CAUSE_1 | Cause Light Wounds
+CAUSE_2 | Cause Serious Wounds
+CAUSE_3 | Cause Critical Wounds
+CAUSE_4 | Cause Mortal Wounds
+MISSILE | Magic Missile
+ARROW_1 | Fire an Arrow
+ARROW_2 | Fire Arrows
+ARROW_3 | Fire a Missile
+ARROW_4 | Fire Missiles
+BOULDER | Throw Boulders
+DRAIN_MANA | Drain Mana
+TELE_LEVEL | Teleport Level
+TELE_TO | Teleport To
+TELE_AWAY | Teleport Away
+TRAPS | Create Traps
+SHRIEK | Shriek
+HEAL | Heal Self
+BLINK | Blink Self
+TPORT | Teleport Self
+# Breaths
+BR_ACID | Acid
+BR_POIS | Poison
+BR_COLD | Cold
+BR_FIRE | Fire
+BR_ELEC | Electricity
+BR_LITE | Light
+BR_DARK | Darkness
+BR_SOUN | Sound
+BR_CONF | Confusion
+BR_CHAO | Chaos
+BR_SHAR | Shards
+BR_NETH | Nether
+BR_TIME | Time
+BR_GRAV | Gravity
+BR_WALL | Force
+BR_INER | Inertia
+BR_PLAS | Plasma
+BR_NEXU | Nexus
+BR_DISE | Disenchant
+# Frequency
+1_IN_1 | 1 time in 1
+1_IN_2 | 1 time in 2
+1_IN_3 | 1 time in 3
+1_IN_4 | 1 time in 4
+1_IN_5 | 1 time in 5
+1_IN_6 | 1 time in 6
+1_IN_7 | 1 time in 7
+1_IN_8 | 1 time in 8
+1_IN_9 | 1 time in 9
+1_IN_10 | 1 time in 10
+1_IN_11 | 1 time in 11
+1_IN_12 | 1 time in 12
+1_IN_15 | 1 time in 15
+# Melee 1
+HIT | Hit
+TOUCH | Touch
+CLAW | Claw
+BITE | Bite
+STING | Sting
+CRUSH | Crush
+CRAWL | Crawl
+GAZE | Gaze
+SPIT | Spit
+WAIL | Wail
+BUTT | Butt
+KICK | Kick
+ENGULF | Engulf
+SPORE | Spores
+MOAN | Moans
+# Melee 2
+HURT | to hurt
+SHATTER | to shatter
+EAT_GOLD | to steal gold
+EAT_ITEM | to steal items
+EAT_FOOD | to steal food
+EAT_LITE | to drain light
+CONFUSE | to confuse
+TERRIFY | to terrify
+POISON | to poison
+FIRE | to burn
+ACID | to shoot acid
+COLD | to freeze
+ELEC | to electrify
+PARALYZE | to paralyze
+BLIND | to blind
+HALLU | to hallucinate
+UN_BONUS | to disenchant
+UN_POWER | to drain charges
+LOSE_DEX | to lower DEX
+LOSE_STR | to lower STR
+LOSE_CON | to lower CON
+LOSE_CHR | to lower CHR
+LOSE_WIS | to lower WIS
+LOSE_INT | to lower INT
+LOSE_ALL | to lower all stats
+EXP_10 | to lower EXP
+EXP_20 | to lower EXP
+EXP_40 | to lower EXP
+EXP_80 | to lower EXP
+# Flags
+KILL_WALL | Destroys walls
+PASS_WALL | Passes walls
+EVIL | Evil
+DRAGON | Dragon
+UNDEAD | Undead
+TROLL | Troll
+ORC | Orc
+ANIMAL | Animal
+DEMON | Demon

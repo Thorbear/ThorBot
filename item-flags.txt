@@ -1,0 +1,118 @@
+# Activate
+ILLUMINATION | Illumination
+MAGIC_MAP | Magic Mapping
+DETECT | Detection
+PROT_EVIL | Protection From Evil
+DISP_EVIL | Dispel Evil
+CLAIRVOYANCE | Clairvoyance
+HASTE1 | Haste Self
+HASTE2 | Haste Self
+ACID1 | Acid Bolt
+FIRE1 | Fire Bolt
+FIRE2 | Fire Ball
+FIRE3 | Large Fire Ball
+FROST1 | Frost Bolt
+FROST2 | Frost Ball
+FROST3 | Frost Ball
+FROST4 | Frost Bolt
+FROST5 | Large Frost Ball
+ELEC2 | Large Lightning Ball
+LIGHTNING_BOLT | Lightning Bolt
+STINKING_CLOUD | Stinking Cloud
+BIZZARE | Bizzare Things
+HEAL1 | Heal
+HEAL2 | Heal
+CURE_WOUNDS | Cure Wounds
+RESTORE_LIFE | Restore Life Levels
+STAR_BALL | Star Ball
+RAGE_BLESS_RESIST | Rage, Bless and Resistance
+REM_FEAR_POIS | Remove Fear/Poison
+TRAP_DOOR_DEST | Trap/Door Destruction
+PHASE | Phase Door
+TELEPORT | Teleport Self
+TELE_AWAY | Teleport Other
+BANISHMENT | Banishment
+MASS_BANISHMENT | Mass Banishment
+STARLIGHT | Starlight
+PROBE | Probe
+RESIST | Resistance
+SLEEP | Sleep Monster
+RECHARGE1 | Recharge I
+MANA_BOLT | Mana Bolt
+MISSILE | Magic Missile
+ARROW | Fire Arrow
+DRAIN_LIFE1 | Drain Life
+DRAIN_LIFE2 | Drain Life
+STONE_TO_MUD | Stone To Mud
+WOR | Word of Recall
+BERSERKER | Berserk Rage
+CONFUSE | Confuse Monster
+IDENTIFY | Identify
+FIREBRAND | Fire Branding
+# Stats
+INT | Int
+STR | Str
+CON | Con
+WIS | Wis
+DEX | Dex
+CHR | Chr
+SPEED | Speed
+SEARCH | Searching
+SUST_INT | Sus Int
+SUST_WIS | Sus Wis
+SUST_DEX | Sus Dex
+SUST_STR | Sus Str
+SUST_CON | Sus Con
+SUST_CHR | Sus Chr
+# Slays
+SLAY_DRAGON | Dragons
+SLAY_ANIMAL | Animals
+SLAY_EVIL | Evil
+SLAY_TROLL | Trolls
+SLAY_ORC | Orc
+SLAY_UNDEAD | Undead
+SLAY_GIANT | Giant
+SLAY_DEMON | Demon
+KILL_UNDEAD | *Undead*
+KILL_DRAGON | *Dragon*
+KILL_DEMON | *Demon*
+BRAND_FIRE | Fire-Branded
+BRAND_POIS | Poison-Branded
+BRAND_COLD | Cold-Branded
+BRAND_ACID | Acid-Branded
+BRAND_ELEC | Electricity-Branded
+# Resists
+FREE_ACT | Free Action
+HOLD_LIFE | Hold Life
+RES_LITE | Light
+RES_DARK | Dark
+RES_FIRE | Fire
+RES_ACID | Acid
+RES_COLD | Cold
+RES_ELEC | Electricity
+RES_FEAR | Fear
+RES_CHAOS | Chaos
+RES_BLIND | Blind
+RES_POIS | Poison
+RES_NETHR | Nether
+RES_DISEN | Disenchantment
+RES_CONFU | Confusion
+RES_SOUND | Sound
+RES_SHARD | Shards
+RES_NEXUS | Nexus
+IM_ACID | Acid-Immunity
+IM_FIRE | Fire-Immunity
+IM_COLD | Cold-Immunity
+IM_POIS | Poison-Immunity
+IM_ELEC | Electricity-Immunity
+# Flags
+LIGHT_CURSE | Cursed
+HEAVY_CURSE | Heavily Cursed
+PERMA_CURSE | Permanently Cursed
+AGGRAVATE | Aggravates
+TELEPATHY | ESP
+REGEN | Regen
+TELEPORT | Teleport
+LITE | pLight
+BLESSED | Blessed
+BLOWS | Blows/round
